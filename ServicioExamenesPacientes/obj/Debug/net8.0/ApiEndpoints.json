@@ -1,0 +1,47 @@
+[
+  {
+    "ContainingType": "ServicioExamenesPacientes.Controllers.ExamenPacienteController",
+    "Method": "ReporteExamenesPacientes",
+    "RelativePath": "api/ExamenPaciente/ReporteExamenesPacientes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "Pacientes.Aplicacion.Consultas.ReporteExamenesPacientesConsulta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Pacientes.Infraestructura.Repositorios.ReporteExamenesPacienteRepositorio",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 401
+      },
+      {
+        "Type": "Pacientes.Aplicacion.Dto.BaseOut",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 404
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 500
+      }
+    ]
+  }
+]

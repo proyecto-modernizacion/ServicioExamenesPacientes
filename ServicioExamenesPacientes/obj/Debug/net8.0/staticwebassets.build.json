@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7KQHMqXC639jhQyGb2dMnDCIpYvRhUVLGsRjTWKA/e0=",
+  "Source": "ServicioExamenesPacientes",
+  "BasePath": "_content/ServicioExamenesPacientes",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

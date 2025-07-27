@@ -1,0 +1,15 @@
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Aplicacion\obj\Debug\net8.0\Pacientes.Aplicacion.csproj.AssemblyReference.cache
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Aplicacion\obj\Debug\net8.0\Pacientes.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Aplicacion\obj\Debug\net8.0\Pacientes.Aplicacion.AssemblyInfoInputs.cache
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Aplicacion\obj\Debug\net8.0\Pacientes.Aplicacion.AssemblyInfo.cs
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Aplicacion\obj\Debug\net8.0\Pacientes.Aplicacion.csproj.CoreCompileInputs.cache
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Aplicacion\bin\Debug\net8.0\Pacientes.Aplicacion.deps.json
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Aplicacion\bin\Debug\net8.0\Pacientes.Aplicacion.dll
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Aplicacion\bin\Debug\net8.0\Pacientes.Aplicacion.pdb
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Aplicacion\bin\Debug\net8.0\Pacientes.Dominio.dll
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Aplicacion\bin\Debug\net8.0\Pacientes.Dominio.pdb
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Aplicacion\obj\Debug\net8.0\Paciente.EF5E6B9F.Up2Date
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Aplicacion\obj\Debug\net8.0\Pacientes.Aplicacion.dll
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Aplicacion\obj\Debug\net8.0\refint\Pacientes.Aplicacion.dll
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Aplicacion\obj\Debug\net8.0\Pacientes.Aplicacion.pdb
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Aplicacion\obj\Debug\net8.0\ref\Pacientes.Aplicacion.dll

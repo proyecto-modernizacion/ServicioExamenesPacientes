@@ -1,0 +1,15 @@
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Infraestructura\obj\Debug\net8.0\Pacientes.Infraestructura.csproj.AssemblyReference.cache
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Infraestructura\obj\Debug\net8.0\Pacientes.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Infraestructura\obj\Debug\net8.0\Pacientes.Infraestructura.AssemblyInfoInputs.cache
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Infraestructura\obj\Debug\net8.0\Pacientes.Infraestructura.AssemblyInfo.cs
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Infraestructura\obj\Debug\net8.0\Pacientes.Infraestructura.csproj.CoreCompileInputs.cache
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Infraestructura\bin\Debug\net8.0\Pacientes.Infraestructura.deps.json
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Infraestructura\bin\Debug\net8.0\Pacientes.Infraestructura.dll
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Infraestructura\bin\Debug\net8.0\Pacientes.Infraestructura.pdb
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Infraestructura\bin\Debug\net8.0\Pacientes.Dominio.dll
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Infraestructura\bin\Debug\net8.0\Pacientes.Dominio.pdb
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Infraestructura\obj\Debug\net8.0\Paciente.FC92DA1A.Up2Date
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Infraestructura\obj\Debug\net8.0\Pacientes.Infraestructura.dll
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Infraestructura\obj\Debug\net8.0\refint\Pacientes.Infraestructura.dll
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Infraestructura\obj\Debug\net8.0\Pacientes.Infraestructura.pdb
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Infraestructura\obj\Debug\net8.0\ref\Pacientes.Infraestructura.dll

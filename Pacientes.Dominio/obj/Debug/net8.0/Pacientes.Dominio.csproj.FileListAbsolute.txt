@@ -1,0 +1,11 @@
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Dominio\obj\Debug\net8.0\Pacientes.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Dominio\obj\Debug\net8.0\Pacientes.Dominio.AssemblyInfoInputs.cache
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Dominio\obj\Debug\net8.0\Pacientes.Dominio.AssemblyInfo.cs
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Dominio\obj\Debug\net8.0\Pacientes.Dominio.csproj.CoreCompileInputs.cache
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Dominio\bin\Debug\net8.0\Pacientes.Dominio.deps.json
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Dominio\bin\Debug\net8.0\Pacientes.Dominio.dll
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Dominio\bin\Debug\net8.0\Pacientes.Dominio.pdb
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Dominio\obj\Debug\net8.0\Pacientes.Dominio.dll
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Dominio\obj\Debug\net8.0\refint\Pacientes.Dominio.dll
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Dominio\obj\Debug\net8.0\Pacientes.Dominio.pdb
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Dominio\obj\Debug\net8.0\ref\Pacientes.Dominio.dll
