@@ -3,6 +3,7 @@ using Pacientes.Aplicacion.Consultas;
 using Pacientes.Aplicacion.Dto;
 using Pacientes.Aplicacion.Enum;
 using Pacientes.Infraestructura.Repositorios;
+using ServicioExamenesPacientes.Helpers;
 
 namespace ServicioExamenesPacientes.Controllers
 {
@@ -10,6 +11,7 @@ namespace ServicioExamenesPacientes.Controllers
     [ApiController]
     [Consumes("application/json")]
     [Produces("application/json")]
+    [Authorize]
     public class ExamenPacienteController : ControllerBase
     {
         private readonly ReporteExamenesPacienteConsultaManejador _consultaManejador;

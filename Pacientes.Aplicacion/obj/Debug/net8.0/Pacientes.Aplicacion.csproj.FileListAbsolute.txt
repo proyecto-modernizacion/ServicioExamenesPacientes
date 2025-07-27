@@ -13,3 +13,4 @@ D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExame
 D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Aplicacion\obj\Debug\net8.0\refint\Pacientes.Aplicacion.dll
 D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Aplicacion\obj\Debug\net8.0\Pacientes.Aplicacion.pdb
 D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Aplicacion\obj\Debug\net8.0\ref\Pacientes.Aplicacion.dll
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\Pacientes.Aplicacion\obj\Debug\net8.0\Pacientes.Aplicacion.sourcelink.json

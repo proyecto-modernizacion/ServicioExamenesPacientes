@@ -61,3 +61,5 @@ D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExame
 D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\ServicioExamenesPacientes\obj\Debug\net8.0\ServicioExamenesPacientes.pdb
 D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\ServicioExamenesPacientes\obj\Debug\net8.0\ServicioExamenesPacientes.genruntimeconfig.cache
 D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\ServicioExamenesPacientes\obj\Debug\net8.0\ref\ServicioExamenesPacientes.dll
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\ServicioExamenesPacientes\obj\Debug\net8.0\ServicioExamenesPacientes.MvcApplicationPartsAssemblyInfo.cs
+D:\Edwar_Romero\Documents\MISO\Modernización de Software\Proyecto\ServicioExamenesPacientes\ServicioExamenesPacientes\obj\Debug\net8.0\ServicioExamenesPacientes.sourcelink.json

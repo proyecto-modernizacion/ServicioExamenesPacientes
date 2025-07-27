@@ -1,7 +1,30 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Edwar_Romero\\Documents\\MISO\\Modernizaci\u00F3n de Software\\Proyecto\\ServicioExamenesPacientes\\ServicioExamenesPacientes\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0ED25D-9115-41BB-BC3F-B8A3FA69D4C2}|ServicioExamenesPacientes.csproj|d:\\edwar_romero\\documents\\miso\\modernizaci\u00F3n de software\\proyecto\\servicioexamenespacientes\\servicioexamenespacientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0ED25D-9115-41BB-BC3F-B8A3FA69D4C2}|ServicioExamenesPacientes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0ED25D-9115-41BB-BC3F-B8A3FA69D4C2}|ServicioExamenesPacientes.csproj|d:\\edwar_romero\\documents\\miso\\modernizaci\u00F3n de software\\proyecto\\servicioexamenespacientes\\servicioexamenespacientes\\controllers\\examenpacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0ED25D-9115-41BB-BC3F-B8A3FA69D4C2}|ServicioExamenesPacientes.csproj|solutionrelative:controllers\\examenpacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0ED25D-9115-41BB-BC3F-B8A3FA69D4C2}|ServicioExamenesPacientes.csproj|d:\\edwar_romero\\documents\\miso\\modernizaci\u00F3n de software\\proyecto\\servicioexamenespacientes\\servicioexamenespacientes\\helpers\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0ED25D-9115-41BB-BC3F-B8A3FA69D4C2}|ServicioExamenesPacientes.csproj|solutionrelative:helpers\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0ED25D-9115-41BB-BC3F-B8A3FA69D4C2}|ServicioExamenesPacientes.csproj|d:\\edwar_romero\\documents\\miso\\modernizaci\u00F3n de software\\proyecto\\servicioexamenespacientes\\servicioexamenespacientes\\middleware\\autorizadormiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0ED25D-9115-41BB-BC3F-B8A3FA69D4C2}|ServicioExamenesPacientes.csproj|solutionrelative:middleware\\autorizadormiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90E80C8-6999-486A-BC1F-1CF4706416F3}|..\\Pacientes.Aplicacion\\Pacientes.Aplicacion.csproj|d:\\edwar_romero\\documents\\miso\\modernizaci\u00F3n de software\\proyecto\\servicioexamenespacientes\\pacientes.aplicacion\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90E80C8-6999-486A-BC1F-1CF4706416F3}|..\\Pacientes.Aplicacion\\Pacientes.Aplicacion.csproj|d:\\edwar_romero\\documents\\miso\\modernizaci\u00F3n de software\\proyecto\\servicioexamenespacientes\\pacientes.aplicacion\\clientes\\iusuarioapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +32,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e3fb24c2-2e84-3146-a5f8-bc25bbc68f8a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Edwar_Romero\\Documents\\MISO\\Modernizaci\u00F3n de Software\\Proyecto\\ServicioExamenesPacientes\\ServicioExamenesPacientes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Edwar_Romero\\Documents\\MISO\\Modernizaci\u00F3n de Software\\Proyecto\\ServicioExamenesPacientes\\ServicioExamenesPacientes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwEAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T23:11:29.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExamenPacienteController.cs",
+              "DocumentMoniker": "D:\\Edwar_Romero\\Documents\\MISO\\Modernizaci\u00F3n de Software\\Proyecto\\ServicioExamenesPacientes\\ServicioExamenesPacientes\\Controllers\\ExamenPacienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExamenPacienteController.cs",
+              "ToolTip": "D:\\Edwar_Romero\\Documents\\MISO\\Modernizaci\u00F3n de Software\\Proyecto\\ServicioExamenesPacientes\\ServicioExamenesPacientes\\Controllers\\ExamenPacienteController.cs",
+              "RelativeToolTip": "Controllers\\ExamenPacienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T23:11:04.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorizeAttribute.cs",
+              "DocumentMoniker": "D:\\Edwar_Romero\\Documents\\MISO\\Modernizaci\u00F3n de Software\\Proyecto\\ServicioExamenesPacientes\\ServicioExamenesPacientes\\Helpers\\AuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "Helpers\\AuthorizeAttribute.cs",
+              "ToolTip": "D:\\Edwar_Romero\\Documents\\MISO\\Modernizaci\u00F3n de Software\\Proyecto\\ServicioExamenesPacientes\\ServicioExamenesPacientes\\Helpers\\AuthorizeAttribute.cs",
+              "RelativeToolTip": "Helpers\\AuthorizeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T23:10:41.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutorizadorMiddleware.cs",
+              "DocumentMoniker": "D:\\Edwar_Romero\\Documents\\MISO\\Modernizaci\u00F3n de Software\\Proyecto\\ServicioExamenesPacientes\\ServicioExamenesPacientes\\Middleware\\AutorizadorMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\AutorizadorMiddleware.cs",
+              "ToolTip": "D:\\Edwar_Romero\\Documents\\MISO\\Modernizaci\u00F3n de Software\\Proyecto\\ServicioExamenesPacientes\\ServicioExamenesPacientes\\Middleware\\AutorizadorMiddleware.cs",
+              "RelativeToolTip": "Middleware\\AutorizadorMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T23:10:36.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "D:\\Edwar_Romero\\Documents\\MISO\\Modernizaci\u00F3n de Software\\Proyecto\\ServicioExamenesPacientes\\Pacientes.Aplicacion\\Dto\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "..\\Pacientes.Aplicacion\\Dto\\UsuarioDto.cs",
+              "ToolTip": "D:\\Edwar_Romero\\Documents\\MISO\\Modernizaci\u00F3n de Software\\Proyecto\\ServicioExamenesPacientes\\Pacientes.Aplicacion\\Dto\\UsuarioDto.cs",
+              "RelativeToolTip": "..\\Pacientes.Aplicacion\\Dto\\UsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T23:09:34.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUsuarioApiClient.cs",
+              "DocumentMoniker": "D:\\Edwar_Romero\\Documents\\MISO\\Modernizaci\u00F3n de Software\\Proyecto\\ServicioExamenesPacientes\\Pacientes.Aplicacion\\Clientes\\IUsuarioApiClient.cs",
+              "RelativeDocumentMoniker": "..\\Pacientes.Aplicacion\\Clientes\\IUsuarioApiClient.cs",
+              "ToolTip": "D:\\Edwar_Romero\\Documents\\MISO\\Modernizaci\u00F3n de Software\\Proyecto\\ServicioExamenesPacientes\\Pacientes.Aplicacion\\Clientes\\IUsuarioApiClient.cs",
+              "RelativeToolTip": "..\\Pacientes.Aplicacion\\Clientes\\IUsuarioApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T23:09:16.539Z",
+              "EditorCaption": ""
             }
           ]
         }
